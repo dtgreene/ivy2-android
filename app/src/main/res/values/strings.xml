@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ivy 2 Camera</string>
+    <string name="print_image_input_description">The image to process</string>
+    <string name="dashed_background_description">Dashed background</string>
+    <string name="open_camera_button_text">Open Camera</string>
+    <string name="browse_files_button_text">Browse Images</string>
+    <string name="choose_image_text">Choose image</string>
+    <string name="remove_image_button_text">Remove Image</string>
+</resources>
